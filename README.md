@@ -8,6 +8,12 @@
 <h3>FreightFlow Africa ERD DIAGRAM</h3>
 
 ![ERD Diagram](FreighFlow_ERD_diagram.png)
+<h4>The schema centers on a `shipments` fact table linked to `clients`, `routes`, `drivers`, and `warehouses`. Each shipment record ties a client to a route (origin/destination depot pair) and carries delivery status and delay metrics — this is what made it possible to roll delay analysis up from the shipment level to the route level and the client level in the same query set.</h4>
+
+<h3>209,000 lost to delayed/lost shipments — 11.6% of total 2023–2024 revenue</h3>
+<h3>1.5 days** average delivery delay, network-wide</h3>
+<h3>6 of 20 clients** are high-risk (>15% of shipments delayed/lost), representing **$614,625** in freight spend</h3>
+<h3>RT003 (Lagos–Kano)** and **RT011 (Accra–Lomé)** are the worst-performing routes, at 47% and 41% late-arrival rates</h3>
 
 <h2>What problem were you solving?</h2>
 <h4>FreightFlow Africa, in its first two years of operation, generated approximately $1.36M in total revenue across a client base of 20 companies.</h4>
