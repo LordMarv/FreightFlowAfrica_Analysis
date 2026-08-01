@@ -54,8 +54,7 @@ instead it fluctuates from month to month as seen by how February 2024 improves 
 <h3>Route Delay Rate</h3>
 <h4>Lagos Hub to Kano Depot (RT003) has the highest delay rate — 47% of its 83 shipments arrived late. Accra Central to Lome Depot (RT011) follows closely, with 41% lateness across 76 shipments.</h4>
 <h4>However, delay rate doesn't scale with shipment volume: Kano to Abuja Depot handled a comparable 74 shipments but only 25% arrived late — nearly half the rate of RT003 despite similar volume. This suggests lateness is driven by route-specific conditions rather than sheer traffic.</h4>
-<h3>Recommendation:</h3>
-<h4>Treat delay as an isolated, route-level issue rather than a volume-driven one. Investigate RT003 and RT011 individually — likely candidates are distance, road/border conditions, carrier assignment, or handling at specific depots — rather than assuming a general capacity problem.</h4>
+<h3>Recommendation:</h3> <h4>Treat delay as an isolated, route-level issue rather than a volume-driven one. Investigate RT003 and RT011 individually — likely candidates are distance, road/border conditions, carrier assignment, or handling at specific depots — rather than assuming a general capacity problem.</h4>
 
 
 
