@@ -16,7 +16,7 @@
 <h3>6 of 20 clients are high-risk (>15% of shipments delayed/lost), representing $614,625 in freight spend</h3>
 <h3>RT003 (Lagos–Kano) and RT011 (Accra–Lomé) are the worst-performing routes, at 47% and 41% late-arrival rates</h3>
 
-<h2>What problem were you solving?</h2>
+<h2>What problem was I solving?</h2>
 <h4>FreightFlow Africa, in its first two years of operation, generated approximately $1.8M in total revenue across a client base of 20 companies.</h4>
 <h4>At the close of year two, leadership wanted to understand whether the business was at risk of losing any clients — and if so, what was driving that risk.</h4>
 
@@ -25,18 +25,18 @@
 <h4>Expanding on top of unresolved delivery and reliability issues would only amplify losses and client attrition at a larger scale, making early detection critical to a sustainable expansion.</h4>
 
 
-<h2>What approach did you take?</h2>
+<h2>What approach did I take?</h2>
 <h4>SQL Server (SSMS):Data storage, querying, and analysis</h4>
 <h4>Power BI: Dashboard and data visualisation</h4>
 <h4>GitHub:Version control and portfolio hosting</h4>
 <h4>dbdiagram.ioEntity Relationship Diagram (ERD)</h4>
 
-<h2>What challenges did you face?</h2> 
+<h2>What challenges did I face?</h2> 
 <h4>The biggest challenge wasn't technical — it was framing. The business question ('are we at risk of losing clients, and why?') could be approached from several angles: revenue analysis, delay/operations analysis, or client behavior analysis.
 </h4>
 <h4>Early attempts to lead with a pure revenue trend (month-over-month lost revenue) produced a noisy, inconclusive picture that didn't clearly answer the 'why.' Reframing the investigation around operational root causes and then connecting those findings back to specific high-risk clients produced a much clearer and compelling story.</h4>
 
-<h2>What did your analysis reveal, and What recommendations would you make?</h2>
+<h2>What did my analysis reveal, and What recommendations would I make?</h2>
 
 <h3>Total lost revenue:</h3>
 <h4>$209,000 was lost due to delayed and lost shipments. This accounts for 11.6% of the total revenue made in the years 2023 and 2024. But lost revenue doesn’t show a steady upward trend,
