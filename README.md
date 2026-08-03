@@ -11,10 +11,10 @@
 <h4>The schema centers on a `shipments` fact table linked to `clients`, `routes`, `drivers`, and `warehouses`. Each shipment record ties a client to a route (origin/destination depot pair) and carries delivery status and delay metrics — this is what made it possible to roll delay analysis up from the shipment level to the route level and the client level in the same query set.</h4>
 
 <h2>KPI</h2>
-<h3>209,000 lost to delayed/lost shipments — 11.6% of total 2023–2024 revenue</h3>
-<h3>1.5 days average delivery delay, network-wide</h3>
-<h3>6 of 20 clients are high-risk (>15% of shipments delayed/lost), representing $614,625 in freight spend</h3>
-<h3>RT003 (Lagos–Kano) and RT011 (Accra–Lomé) are the worst-performing routes, at 47% and 41% late-arrival rates</h3>
+<h3>Lost Revenue:</h3><h4>209,000 lost to delayed/lost shipments — 11.6% of total 2023–2024 revenue</h4>
+<h3>Aberage Delay in Days:</h3><h4>1.5 days average delivery delay, network-wide</h4>
+<h3>High Risk Clients:</h3><h4>6 of 20 clients are high-risk (>15% of shipments delayed/lost), representing $614,625 in freight spend</h4>
+<h3>On-time Delivery rate(%):</h3><h4>The business had a 75% on-time delivery rate, but RT003 (Lagos–Kano) and RT011 (Accra–Lomé) are the worst-performing routes, at 47% and 41% late-arrival rates</h4>
 
 <h2>What problem was I solving?</h2>
 <h4>FreightFlow Africa, in its first two years of operation, generated approximately $1.8M in total revenue across a client base of 20 companies.</h4>
@@ -67,5 +67,5 @@ instead it fluctuates from month to month as seen by how February 2024 improves 
 
 <h4>High risk clients:Rather than investigating the whole network, The business should first audit driver’s assignments, vehicle condition and warehouse maintenance in relation to the two routes since fixing them will reduce the chances of the affected clients churn.</h4>
 
-<h4>Route Delay Rate:Treat delay as an isolated, route-level issue rather than a volume-driven one. Investigate RT003 and RT011 individually — likely candidates are distance, road/border conditions, carrier assignment, or handling at specific depots — rather than assuming a general capacity problem.</h4>
+<h4>Route Delay Rate:Treat delay as an isolated, route-level issue rather than a volume-driven one. Investigate RT003 and RT011 individually likely candidates are distance, road/border conditions, carrier assignment, or handling at specific depots rather than assuming a general capacity problem.</h4>
 
